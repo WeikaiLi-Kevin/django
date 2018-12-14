@@ -1,1 +1,7 @@
 # django
+
+django-admin startproject project_name
+
+python manage.py startapp app_name
+
+python manage.py runserver port
